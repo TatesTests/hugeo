@@ -10,7 +10,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 ## Features
 
 * Contact form
-* Pre-built pages
+* Pre-built pageskjhgjhgjhgj
 * Pre-styled components
 * Blog with pagination and category pages
 * Disqus comments for posts
@@ -31,7 +31,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 
 Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
-Run the standalone executable `hugo` to serve the site locally:
+Run the standalone executable `hugo` tjhgjhgjho serve the site locally:
 
 ~~~bash
 $ hugo server
