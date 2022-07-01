@@ -4,5 +4,5 @@ id -u cloudcannon
 ls -la
 ls -la ..
 #git status
-which git
+which -a git
 echo $PATH
