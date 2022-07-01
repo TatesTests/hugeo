@@ -3,6 +3,6 @@ git --version
 id -u cloudcannon
 ls -la
 ls -la ..
-#git status
+/bin/git status
 which -a git
 echo $PATH
