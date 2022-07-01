@@ -5,3 +5,4 @@ ls -la
 ls -la ..
 which -a git
 echo $PATH
+git config --global --add safe.directory /usr/local/__site/src
