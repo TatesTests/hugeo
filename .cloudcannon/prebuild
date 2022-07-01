@@ -3,5 +3,5 @@ git --version
 id -u cloudcannon
 ls -la
 ls -la ..
-git status
+#git status
 which git
