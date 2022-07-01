@@ -1,3 +1,4 @@
 whoami
+git --version
 id -u cloudcannon
 ls -la
