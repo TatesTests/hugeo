@@ -5,5 +5,3 @@ ls -la
 ls -la ..
 which -a git
 echo $PATH
-
-alias git="whoami;pwd"
