@@ -7,7 +7,7 @@ Increase the web presence of a law firm or business with this configurable theme
 
 Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
 
-## Features
+## Featureslkjlkjlkjl
 
 * Contact form
 * Pre-built pages
