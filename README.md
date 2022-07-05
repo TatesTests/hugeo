@@ -21,7 +21,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 * SEO tags
 * Google Analytics
 
-## Setup
+## Setupasdasdasd
 
 1. Add your site and author details in `config.toml`.
 2. Add your Google Analytics and Disqus keys to `config.toml`.
