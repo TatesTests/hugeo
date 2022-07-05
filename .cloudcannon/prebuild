@@ -1,8 +1,0 @@
-whoami
-git --version
-id -u cloudcannon
-ls -la
-ls -la ..
-which -a git
-echo $PATH
-git status
