@@ -1,29 +1,29 @@
-# Justice
+# Justiceaasdadasd 🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 
 Law firm themed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
 Increase the web presence of a law firm or business with this configurable theme.
 
 ![Justice template screenshot](images/_screenshot.png)
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platformADSADASDASD for the whole team.
+Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
 
-## Features
+## Featureslkjlkjlkjl
 
 * Contact form
-* Pre-built pageskjhgjhgjhgj
+* Pre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
 * Disqus comments for posts
 * Author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feedasdasdasdasdasd
+* RSS/Atom feed
 * SEO tags
 * Google Analytics
 
-## Setup
+## Setupasdasdasd
 
-1. Add your site and author details in `config.toml`.
+1. Add your site and auasdasdasdthor details in `config.toml`.
 2. Add your Google Analytics and Disqus keys to `config.toml`.
 3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Hugo locally).
 
@@ -31,7 +31,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 
 Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
-Run the standalone executable `hugo` tjhgjhgjho serve the site locally:
+Run the standalone executable `hugo` to serve the site locally:
 
 ~~~bash
 $ hugo server
