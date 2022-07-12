@@ -1,6 +1,6 @@
 # Justiceaasdadasd 🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 
-Lalkjlkjlw firm themed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
+Lalkjlkjlw firm theasdasdmed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
 Increase the web presence of a law firm or business with this configurable theme.
 
 ![Justice temasdasdasdasdplate screenshot](images/_screenshot.png)
@@ -13,7 +13,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 * Pre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
-* Disqus comasdadasdments for posts
+* Disqus comments for posts
 * Author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
