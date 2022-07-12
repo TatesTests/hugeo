@@ -1,6 +1,6 @@
 # Justiceaasdadasd 🦀🦀🦀🦀🦀🦀🦀🦀🦀🦀 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 
-Law firm themed business template for Hugo. Browse thjhkhkjhkjhkrough a [live demo](https://loved-wood.cloudvent.net/).
+Law firmadadasdasd themed business template for Hugo. Browse thjhkhkjhkjhkrough a [live demo](https://loved-wood.cloudvent.net/).
 Increase the web presence of a law firm or business with this configurable theme.
 
 ![Jusmnbmbbmnbmhjtice template screenshot](images/_screenshot.png)
