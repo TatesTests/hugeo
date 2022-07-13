@@ -11,7 +11,7 @@ Justicadasdasde was made by [CloudCannon](https://cloudcannon.com/), a Jamstack 
 
 * Contact form
 * Pre-built pages
-* Pre-styled components
+* Pre-styled comadasdasdaponents
 * Blog with pagination and category pages
 * Disqus comments for posts
 * Author system
