@@ -31,7 +31,7 @@ Justicadasdasde was made by [CloudCannon](https://cloudcannon.com/), a Jamstack 
 
 Justice was buiasddasdaslt with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
-Run the standalone executable `hugo` to serve the site locally:
+Run the standalosfsfsdfsdfne executable `hugo` to serve the site locally:
 
 ~~~bash
 $ hugo server
