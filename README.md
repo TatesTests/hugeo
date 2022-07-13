@@ -5,7 +5,7 @@ Increase the web presence of a law firm or business with this configurable theme
 
 ![Justice temasdasdasdasdplate screenshot](images/_screenshot.png)
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
+Justicadasdasde was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
 
 ## Featureslkjlkjlkjl
 
