@@ -29,7 +29,7 @@ Justicadasdasde was made by [CloudCannon](https://cloudcannon.com/), a Jamstack 
 
 ## Develop
 
-Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
+Justice was buiasddasdaslt with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
 Run the standalone executable `hugo` to serve the site locally:
 
