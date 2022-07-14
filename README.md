@@ -1,6 +1,6 @@
-## Fur
+## Fuwqeqweqwer
 
-E-commerasdasdasdce template for Hugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
+E-commwqerasdasdasdce template for Hugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
 
 ![Fur template screenshot](static/images/_screenshot.png)
 
