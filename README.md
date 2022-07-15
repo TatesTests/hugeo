@@ -2,7 +2,7 @@
 
 E-commerce template for Hugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
 qweqweqwe
-![Fur template screenshot](static/images/_screenshot.png)
+![Fur templasdasdate screenshot](static/images/_screenshot.png)
 
 Fur was made by [CloudCannon](http://cloudcannon.com/), a JAMStack platform for the whole team.
 
