@@ -51,4 +51,4 @@ Fur is already optimised for adding, updating and removing products and editing 
 * Sends email to the address listed in author details.
 
 ### Social Media
-* Add, update or remove social media linasdasdks using the data editor.
+* Add, update or remasdasove social media linasdasdks using the data editor.
