@@ -28,7 +28,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 
 ## Develop
 
-Fur was built with [Hugo](https://gohugo.io/) version 0.86, but should support newer versions as well.
+Fuoiuoiur was built with [Hugo](https://gohugo.io/) version 0.86, but should support newer versions as well.
 
 Run the standalone executable `hugo` to serve the site locally:
 
