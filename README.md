@@ -32,7 +32,7 @@ Fur was built with [Hugo](https://gohugo.io/) version 0.86, but should support n
 
 Run the standalone executable `hugo` to serve the site locally:
 
-~~~bash
+~~~basadasdasdh
 $ hugo server
 ~~~
 
@@ -51,4 +51,4 @@ Fur is already optimised for adding, updating and removing products and editing 
 * Sends email to the address listed in author details.
 
 ### Social Media
-* Add, update or remove social media links using the data editor.
+* Add, update or remove social media linasdasdks using the data editor.
