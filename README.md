@@ -17,7 +17,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 * Contact form
 * Optimised for editing in [CloudCannon](http://cloudcannon.com/)
 * RSS/Atom feed
-* SEO tags
+* SEO tagsasdasd
 * Google Analytics
 
 ## Setup
