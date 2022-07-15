@@ -10,7 +10,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 
 [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/fur-hugo-template)
 
-## Features
+## Featasdasdasures
 
 * List product with multiple colours and sizes
 * Take payment online using SnipCart
