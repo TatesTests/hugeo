@@ -1,6 +1,6 @@
 # Hydra
 
-Marketiasdasdasdang site template for Hugo. Browse through a [live demo](https://sage-turtle.cloudvent.net/).
+Marketing site template for Hugo. Browse throasdasdugh a [live demo](https://sage-turtle.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
 ![Hydra template screenshot](static/image/_screenshot.png)
