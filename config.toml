@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Fur"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+snipcart_key = "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_currency = "usd"
+
+[params.author]
+name = "fur"
+email = "fur@example.com"
+twitter = "fur" # twitter username without the @ symbol
+phone = "+1 23456789"
+
+[params.social]
+name = "Fur Template"
+links = [
+	"https://github.com/CloudCannon/fur-hugo-template"
+]
