@@ -1,4 +1,4 @@
-# Hydra
+# Gorgdra
 
 Marketing site template for Hugo. Browse throasdasdugh a [live demo](https://sage-turtle.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
