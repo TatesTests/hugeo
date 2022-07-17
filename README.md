@@ -9,7 +9,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 
 ## Features
 
-* Contact form
+* ,mn,mn,Contact form
 * Pre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
