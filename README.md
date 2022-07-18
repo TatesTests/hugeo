@@ -1,6 +1,6 @@
 # Kustice
 
-Law firadasdm themsdfsdfeded business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
+Lasdfsfsdfw firadasdm themsdfsdfeded business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
 Increasdasdase the web presence of a law firm or business with this configurable theme.
 asdasd
 ![Justice template screenshot](images/_screenshot.png)
