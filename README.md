@@ -1,7 +1,7 @@
 # Justice
 
 Law firm themsdfsdfeded business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
-Increase the web presence of a law firm or business with this configurable theme.
+Increasdasdase the web presence of a law firm or business with this configurable theme.
 
 ![Justice template screenshot](images/_screenshot.png)
 
