@@ -1,0 +1,17 @@
+{
+  "headers": [
+    {
+      "match": "*",
+      "headers": [
+        {
+          "name": "Referrer-Policy",
+          "value": "🦀"
+        },
+        {
+          "name": "Permissions-Policy",
+          "value": "🐢"
+        }
+      ]
+    }
+  ]
+}
