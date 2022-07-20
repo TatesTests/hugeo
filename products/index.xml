@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Fur</title>
+    <link>/products/</link>
+    <description>Recent content in Products on Fur</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/products/_defaults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/_defaults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deer</title>
+      <link>/products/deer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/deer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elephant</title>
+      <link>/products/elephant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/elephant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giraffe</title>
+      <link>/products/giraffe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/giraffe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hog</title>
+      <link>/products/hog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/hog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lion</title>
+      <link>/products/lion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiger</title>
+      <link>/products/tiger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/products/tiger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
