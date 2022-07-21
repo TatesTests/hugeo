@@ -2,7 +2,7 @@
 
 ![Justice template screenshot](images/_screenshot.png)
 
-Justice wasasdasdasdasdas made by [CloudCannon](https://cloudcannon.com/), a Jamstack platformADSADASDASD for the whole team.
+Jusadadasdasdtice wasasdasdasdasdas made by [CloudCannon](https://cloudcannon.com/), a Jamstack platformADSADASDASD for the whole team.
 
 ## Features
 
