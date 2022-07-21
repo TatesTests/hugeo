@@ -1,6 +1,6 @@
 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐸🐸🐸🐸🐸🐸🐸🐸
 
-![Justice template screenshot](images/_screenshot.png)
+![Jasdasdasdasdustice template screenshot](images/_screenshot.png)
 
 Jusadadasdasdtice wasasdasdasdasdas made by [CloudCannon](https://cloudcannon.com/), a Jamstack platformADSADASDASD for the whole team.
 
