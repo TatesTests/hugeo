@@ -14,7 +14,7 @@ testimonials:
   - message: >-
       Justice Law are the best of the best. Being local, they care about people
       and have strong ties to the community.
-    image: https://www.fillmurray.com/60/60?a=.png
+    image: /uploads/deblob.png
     name: Peter Rottenburg
   - message: >-
       Justice Law were everything we could have hoped for when buying our first
