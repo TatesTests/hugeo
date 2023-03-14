@@ -34,7 +34,7 @@ Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should s
 Run the standalone executable `hugo` to serve the site locally:
 
 ~~~bash
-$ hugo server
+$ hugo server 🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢🐢
 ~~~
 
 ## Editing
