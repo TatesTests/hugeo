@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "from": "(.*)",
+      "to": "$1/garbage",
+      "status": 308
+    }
+  ]
+}
