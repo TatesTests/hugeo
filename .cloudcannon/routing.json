@@ -2,7 +2,7 @@
   "routes": [
     {
       "from": "(.*)",
-      "to": "$1/garbage",
+      "to": "$1garbage/",
       "status": 308
     }
   ]
