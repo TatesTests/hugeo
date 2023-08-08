@@ -17,7 +17,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
 * RSS/Atom feed
-* SEO tags
+* SEO tagsjkjhjk
 * Google Analytics
 
 ## Setupasdasdasd
