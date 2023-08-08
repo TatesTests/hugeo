@@ -28,7 +28,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 
 ## Develop
 
-Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
+Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, b;lkl;kut should support newer versions as well.
 
 Run the standalone executable `hugo` to serve the site locally:
 
