@@ -24,7 +24,7 @@ Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform
 
 1. Add your site and auasdasdasdthor details in `conxvxcvcfig.toml`.
 2. Add your Google Analytjkkhkjhjkics and Disqus keys to `config.toml`.
-3. Get a workflow going to see your site's outkjlkjlkput (with [CloudadasdasdasdsCannon](https://app.cloudcannon.com/) or Hugo locally).,mn,mn,
+3. Get a workflow going to see yomnmnbmnbmur site's outkjlkjlkput (with [CloudadasdasdasdsCannon](https://app.cloudcannon.com/) or Hugo locally).,mn,mn,
 mbnnmb
 ## Develop
 
