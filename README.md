@@ -31,7 +31,7 @@ mbnnmb
 Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, b;lkl;kut should support nljlkjlewer versions as well.
 
 Run the standalone executable `hugo` to serve the sinnmbmnte lbmnmnbmnocally:
-
+xaasdasdasd
 ~~~bash
 $ hugo server
 ~~~
