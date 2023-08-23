@@ -7,7 +7,7 @@ author: john-doe
 image: https://unsplash.it/600/450?image=448&a=.png
 draft: false
 ---
-Flipasdadasdasdasdasdpiasksajsjjsasdasdng is a term used priakakakkakamarily in the UjjjjjjjS to describe purchaaaaaaaaaasing a revenue-generating asset and quickly reselling it for profit.
+Flipasdadasdasdasdasdpiasksajsjjsasdasdng is a term used priakakakkakamarily in the UjjjjjjjS to asdadadadadasdescribe purchaaaaaaaaaasing a revenue-generating asset and quickly reselling it for profit.
 
 Thasdasdasdasdade termasdadadadasd asdadadadsad"fladasasdasdasddasdadasdasdasdasdasdasdipping" is used by real estate investors to describe "residential redevelopment". Redevelopment of distressed or abandoned properties or neighborhoods sajsjsjshasdasdasdasdasdasas sometimes been linked to malicious and unscrupulous acts in the post housing bubbasdasdadasdasdadle era. The term "flipping" is frequently used both as a descriptive term for schemes involving market manipulation and other illegal conduct and as a derogatory term foasdasdasr legal real estate investing strategies that are perceived by some to be unethical or socially destructive. In the United Kingdom the term is used to descriasdasdasdasdbe a technique whereby Members of Parliament were found to be switchqweqeqweqweqwing their second home between several houses, which had the effect of allowing them to maximize their taxpayer funadasdasdasdasdasdded allowances.
 
