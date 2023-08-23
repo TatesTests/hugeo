@@ -1,0 +1,118 @@
+paths:
+  data: data
+  collections: content
+  includes: layouts
+  layouts: layouts
+  static: static
+  uploads: static/uploads
+  source: ''
+  archetypes: archetypes
+  assets: assets
+  content: content
+  pages: content
+  publish: public
+  config: ''
+collections_config:
+  pages:
+    path: content
+    output: true
+    filter: strict
+    parse_branch_index: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  posts:
+    path: content/posts
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: data
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  large_header:
+    type: text
+    comment: Toggles the size of the top banner.
+    cascade: true
+  show_in_navigation:
+    type: text
+    comment: Toggles a link in the top banner.
+    cascade: true
+  author_staff_member:
+    type: text
+    comment: The staff member writing this post.
+    cascade: true
+  call_to_action:
+    type: text
+    comment: Type of request shown at the bottom of this page.
+    cascade: true
+  background_image_path:
+    type: image
+    comment: Image shown in the top banner, blank for the default.
+    cascade: true
+  testimonials:
+    type: text
+    comment: Update, add or remove testimonials.
+    cascade: true
+  map:
+    type: text
+    comment: Update the map location and display settings.
+    cascade: true
+  latitude:
+    type: text
+    comment: Coordinates for the center marker on the map.
+    cascade: true
+  longitude:
+    type: text
+    comment: Coordinates for the center marker on the map.
+    cascade: true
+  zoom:
+    type: text
+    comment: The zoom level for the map.
+    cascade: true
+  phone_extension:
+    type: text
+    comment: The digits after dialing the company phone.
+    cascade: true
+  credentials:
+    type: text
+    comment: Shown as subtext on staff member summaries.
+    cascade: true
+  contact_email_address:
+    type: email
+    comment: Address for the contact form to send to.
+    cascade: true
+  new_window:
+    type: text
+    comment: Whether the link opens a new browser tab/window.
+    cascade: true
+  type:
+    type: text
+    options:
+      hidden: true
+    cascade: true
+_select_data:
+  call_to_actions:
+    - Contact
+    - Blog
+    - Map
+  social_icons:
+    - Facebook
+    - Instagram
+    - LinkedIn
+    - Pinterest
+    - Tumblr
+    - Twitter
+    - YouTube
+    - RSS
+_structures: {}
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
