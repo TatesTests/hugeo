@@ -5,7 +5,7 @@ Increase the nbmnbmnbmnweb presence of a law firm or business with this configur
 
 ![Justice template screenshot](images/_screenshot.png)
 
-Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
+Justice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack plasdadasdatform for the whole team.
 
 ## Features
 
