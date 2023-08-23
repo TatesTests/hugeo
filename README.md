@@ -1,6 +1,6 @@
 ## Fuwqeqweqwer
 
-E-commwqerasdasdasdce tempasdasdlate for Hugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
+E-commwqerasdasdasdce tempasdasdlate for Huuuuuuuugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
 
 ![Furqweqwe template screenshot](static/images/_screenshot.png)
 
