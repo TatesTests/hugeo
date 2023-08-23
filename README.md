@@ -1,6 +1,6 @@
-## Fuwqeqweqwereeeeeeeeeee
+## Fuwqeqweqwer
 
-E-commwqerasdasdasdce tempasdasdlate for Huuuuuuuugo. Broooooowse through a [live demo](https://adept-lemongrass.cloudvent.net).
+E-commwqerasdasdasdce tempasdasdlate for Huuuuuuuugo. Browse through a [live demo](https://adept-lemongrass.cloudvent.net).
 
 ![Furqweqwe template screenshot](static/images/_screenshot.png)
 
@@ -19,7 +19,7 @@ Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https:
 * RSS/Atom feed
 * SEO tagsasdasd
 * Google Analytics
-
+hhhhhh
 ## Setup
 
 1. Add your site and author details in `config.toml`.
