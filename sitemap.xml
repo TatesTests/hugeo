@@ -2,35 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-11-11T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-11-11T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2020-11-11T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/categories/property/</loc>
-    <lastmod>2020-11-11T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/posts/2020/11/11/real-estate-flipping/</loc>
-    <lastmod>2020-11-11T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/categories/business/</loc>
-    <lastmod>2020-08-10T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/posts/2020/08/10/business-mergers/</loc>
-    <lastmod>2020-08-10T00:00:00+13:00</lastmod>
-  </url><url>
-    <loc>/about/</loc>
+    <loc>/products/_defaults/</loc>
   </url><url>
     <loc>/contact/</loc>
   </url><url>
+    <loc>/products/deer/</loc>
+  </url><url>
+    <loc>/products/elephant/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/products/giraffe/</loc>
+  </url><url>
+    <loc>/products/hog/</loc>
+  </url><url>
+    <loc>/products/lion/</loc>
+  </url><url>
+    <loc>/404/</loc>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/products/</loc>
+  </url><url>
+    <loc>/returns/</loc>
+  </url><url>
+    <loc>/shipping/</loc>
+  </url><url>
+    <loc>/products/tiger/</loc>
+  </url><url>
     <loc>/contact-success/</loc>
-  </url><url>
-    <loc>/services/</loc>
-  </url><url>
-    <loc>/terms/</loc>
   </url>
 </urlset>
