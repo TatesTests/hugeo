@@ -9,4 +9,4 @@ menu:
   footer:
     weight: 2
 ---
-adasdasdasdsamnbjhjghghbbmnbmnbmnbmnb
+adasdasdasdsaaaaaaamnbjhjghghbbmnbmnbmnbm,mmmnbaaaa![](/uploads/paprika.jpg)

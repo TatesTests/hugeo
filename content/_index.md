@@ -14,7 +14,7 @@ testimonials:
   - message: >-
       Justice Law are the best of the best. Being local, they care about people
       and have strong ties to the community.
-    image: https://www.fillmurray.com/60/60?a=.png
+    image: /uploads/300kb.png
     name: Peter Rottenburg
   - message: >-
       Justice Law were everything we could have hoped for when buying our first
@@ -26,6 +26,6 @@ _options:
     width: 60
     height: 60
 ---
-aaaTaaaaaaaahqweqweqweweqweqeais is the *Jqweqweqweustice* template from [CloudCannon](https://cloudcannon.com/). Justice is stro![](/uploads/burosscracy.png)ng founda![](/uploads/burosscracy.png)tion for the web presence of a law firm or business. It's filled with fictitious exa![](/uploads/nutmeg.jpg)mple content to get you aaaaaaaaaa.
+aaaTaaaaaa![](/uploads/oxide-developer.png)aahqweqweqweweqweqeais is the *Jqweqweqweustice* template from [CloudCannon](https://cloudcannon.com/). Justice is stro![](/uploads/burosscracy.png)ng founda![](/uploads/burosscracy.png)tion for the web presence of a law firm or business. It's filled with fictitious exa![](/uploads/nutmeg.jpg)mple content to get you aaaaaaaaaa.
 
 Justice Law is profess![](/uploads/cinnamon-copy.png)ional representation. Practicing for over 50 years, our team have the knowledge and skills to get you results.
