@@ -9,4 +9,6 @@ menu:
   footer:
     weight: 2
 ---
+![](/uploads/cinnamon-1.jpeg)
+
 adasdasdasdsaaaaaaamnbjhjghghbbmnbmnbmnbm,mmmnbaaaa![](/uploads/paprika.jpg)
