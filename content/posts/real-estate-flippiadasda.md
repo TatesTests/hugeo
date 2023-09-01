@@ -1,6 +1,6 @@
 ---
-title: Real Estate Flippingdjksaddkads
-date: 2020-11-11T00:00:00+13:00
+title: Real Estate Flippiadasda
+date: 2020-11-10T11:00:00Z
 categories:
   - Property
 author: john-doe
