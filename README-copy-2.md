@@ -69,3 +69,4 @@ zxczxczxczxc
 🐢🐢🐢🐢🐢🐢jhgjhhjhjhgjhgjhgjhg
 asasdadasdasdadasdasdasdasdasddd
 this.unset('uuid');aaaaaaaaaaaaa
+		this.unset('state');
