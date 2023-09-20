@@ -20,7 +20,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
 * RSS/Atom feed
-* SEO tags
+* SEO tagsadadasdasdasdasd
 * Google Analytics
 
 ## Setup
