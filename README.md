@@ -20,7 +20,7 @@ asdasdasd
 * RSS/Atom feedasdasdasd
 * SEO tags
 * Google Analytics
-asdasdasdasd
+asdasdasdasd,ljljkjlkjlk
 ## Setupasdasdasd
 
 1. Add your site and auasdasdasdthor details in `config.toml`.asdasdas
