@@ -17,7 +17,7 @@ asdasdasd
 * Author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
+* RSS/Atom feedasdasdasd
 * SEO tags
 * Google Analytics
 asdasdasdasd
