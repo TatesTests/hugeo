@@ -12,7 +12,7 @@ asdasdasd
 * Contact form
 * Pre-built pages
 * Pre-styled components
-* Blog with pagination and category pages
+* Blog with pagination and category pagesadasdasd
 * Disqus comments for posts
 * Author system
 * Configurable footer
