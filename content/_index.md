@@ -14,7 +14,7 @@ testimonials:
     name: Peter Rottenburg
   - message: Justice Law were everything we could have hoped for when buying our first home. Highly recommended to all.
     image: "https://placebear.com/60/60?a=.png"
-    name: D. and G. Gibbleston
+    name: D. and G. Gibblestonadasdasdasdas
 _options:
   image:
     width: 60
