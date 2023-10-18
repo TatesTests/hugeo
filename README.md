@@ -17,7 +17,7 @@ Hydra was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform f
 * Blog with pagination and category pages
 * Disqus comments for posts
 * Author system
-* Configurable footer
+* Configurable footerasdasdasd
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
 * RSS/Atom feed
 * SEO tags
