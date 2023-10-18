@@ -1,8 +1,14 @@
 # Hydra
 
-![](/cinnamon.jpeg)
+![](/static/cinnamon.jpeg)
 
-Marketing siasdasdasdasdasdaste template for Hugo. Browse through a [live demo](https://sage-turtle.cloudvent.net/). Increase the web presence of your brand with this configurable theme.
+![](/static/cinnamon.jpeg)
+
+Marketing siasdasdasdasdasdaste template for Hugo. ![](/static/cinnamon.jpeg) ![](/static/cinnamon.jpeg)
+
+Browse through a [live demo](https://sage-turtle.cloudvent.net/). Increase the web presence of your brand with this configurable theme.
+
+![](/static/cinnamon.jpeg)
 
 ![Hydra template screenshot](static/image/_screenshot.png)
 
