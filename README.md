@@ -5,7 +5,7 @@ Increase the web presence of a law firm or business with this configurable theme
 
 ![Justice template screasdasdasdenshot](images/_screenshot.png)
 
-Justadadasdasdice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team.
+Justadadasdasdice was made by [CloudCannon](https://cloudcannon.com/), a Jamstack platform for the whole team. jkjhkjhkjhkjh
 asdasdasdasddasdasdasdasdasdasdaed
 ## Featureslkjlkjlkjl
 
