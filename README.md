@@ -66,4 +66,4 @@ Justice is set up for adding, updating and removing pages, authors, posts, compa
 * Set in the *Data* / *Company* section.
 
 asdasdasd
-[{"action":"update","path":"README.md"},{"action":"diff","diffId":1699502923397},{"action":"change_identifier","identifier":"bb79cc7b977e9810efd963324ee39310771d2788","storage_provider":"gitlab","full_name":"tate_k/hugeo","branch":"fast-16"}]
+[{"action":"update","path":"README.md"},{"action":"diff","diffId":1699502923397},{"action":"change_identifier","identifier":"bb79cc7b977e9810efd963324ee39310771d2788","storage_provider":"gitlab","full_name":"tate_k/hugeo","branch":"fast-16"}][{"action":"update","path":"README.md"},{"action":"diff","diffId":1699502923397},{"action":"change_identifier","identifier":"bb79cc7b977e9810efd963324ee39310771d2788","storage_provider":"gitlab","full_name":"tate_k/hugeo","branch":"fast-16"}]
