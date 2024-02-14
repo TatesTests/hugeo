@@ -4,7 +4,7 @@ Law fadsasdasdirm themed business templatadaaasdasde for Hugo. Browse through a 
 Increase the nbmnbmnbmnweb presence of a law firm or business with this configurable theme.
 
 ![Justice template screenshot](images/_screenshot.png)asdasdasadasdas
-
+asdasdasdasd
 Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/), a Jamstack plasdadasdatform for the whole team.
 
 ## Features
