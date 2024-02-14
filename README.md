@@ -16,7 +16,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 * Disqus comments for posts
 * Author system
 * Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
+* Optimised for editing in [CloadasdasdasdudCannon](https://cloudcannon.com/)
 * RSS/Atom feed
 * SEO tags
 * Google Analytics
