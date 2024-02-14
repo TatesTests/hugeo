@@ -9,7 +9,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 
 ## Features
 
-* Contact form
+* Contactasdasdasd form
 * adasdasdsadPre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
