@@ -7,7 +7,7 @@ asdadasdasd
 asdasdasdasd
 Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/), a Jamstack plasdadasdatform for the whole team.
 
-## Featuressssssss
+## Featuressssssssasdasdasdasd
 
 * Contactasdasdasd form
 * adasdasdsadPre-built pages
