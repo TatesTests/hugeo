@@ -13,7 +13,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 * adasdasdsadPre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
-* Disqus comments for posts
+* Disqus comments for postsasdasdasdasd
 * Author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
