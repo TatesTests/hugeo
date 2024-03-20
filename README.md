@@ -7,19 +7,7 @@ zcxzczczxczxc
 
 Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/), a Jamstack plasdadasdatform for the whole team.
 sdadsadsa
-## Features
-
-* Contact form
-* adasdasdsadPre-built pages
-* Pre-styled componentsaaaaaaa
-* Blog with pagination and category pages
-* Disqus comments for postsasdasdasdasd
-* Author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
 
 ## Setup
 
