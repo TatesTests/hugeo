@@ -19,19 +19,16 @@ sdadsadsa
 
 1. Add your site and author details in `config.toml`.
 2. Add your Google Analytics and Disqus keys to `config.toml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Hugo locally).
-
-## Develop
-
-Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
-
-Run the standalone executable `hugo` to serve the site locally:
-
-~~~bash
-$ hugo server
-~~~
-
-## Editing
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## Setup
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## Setup
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## Setup
+## 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢 🐢
+## Setup
 
 Justice is set up for adding, updating and removing pages, authors, posts, company details and footer elements in [CloudCannon](https://app.cloudcannon.com/).
 
