@@ -11,7 +11,7 @@ sdadsadsa
 
 * Contact form
 * adasdasdsadPre-built pages
-* Pre-styled components
+* Pre-styled componentsaaaaaaa
 * Blog with pagination and category pages
 * Disqus comments for postsasdasdasdasd
 * Author system
