@@ -1,0 +1,7 @@
+{
+  "name": "11ty-bones",
+  "version": "0.0.0",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
