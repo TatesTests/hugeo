@@ -31,7 +31,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 
 Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
-Run the standalone executable `hugo` to serve the site locally:
+Run the standalone executable `hugo` to serve the site locally:adasdasd
 
 ~~~bash
 $ hugo server
