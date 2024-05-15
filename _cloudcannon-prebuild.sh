@@ -1,3 +1,3 @@
 #!/bin/bash
 cp siteicon.png static/siteicon.png
-time /usr/bin/env bash -c exit
+RBENV_DEBUG=1 rbenv version
