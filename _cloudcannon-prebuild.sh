@@ -1,3 +1,3 @@
 #!/bin/bash
 cp siteicon.png static/siteicon.png
-time rbenv version
+time /usr/bin/env bash -c exit
