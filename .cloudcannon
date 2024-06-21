@@ -1,0 +1,24 @@
+{
+  "routes": [
+    {
+      "from": "/es(.*)",
+      "to": "/en/",
+      "status": 301,
+    },
+    {
+      "from": "/fr(.*)",
+      "to": "/en/",
+      "status": 301,
+    },
+    {
+      "from": "/pl(.*)",
+      "to": "/en/",
+      "status": 301,
+    },
+    {
+      "from": "/en/changelog(.*)",
+      "to": "/en/",
+      "status": 301,
+    },
+  ]
+}
