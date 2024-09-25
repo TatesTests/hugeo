@@ -1,5 +1,5 @@
 ---
-title: Real Estate Flitting
+title: Real Estate Fitting
 date: 2020-11-11T00:00:00+13:00
 categories:
   - Property
