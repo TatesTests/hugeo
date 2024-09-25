@@ -11,7 +11,7 @@ Sources / Acknowledgements
 
 &nbsp;
 
-Irene Michlin
+Irene MichlinAAAAAAA
 
 * “Incremental Threat Modelling”
 * Presented at AppSec EU 2017, Belfast
