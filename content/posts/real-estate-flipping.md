@@ -1,5 +1,5 @@
 ---
-title: Real Estate Fitting
+title: Real Estate Fibbing
 date: 2020-11-11T00:00:00+13:00
 categories:
   - Property
