@@ -102,6 +102,7 @@ _snippets:
   test:
     template: hugo_paired_shortcode
     definitions:
+      shortcode_name: test
       content_key: content
     _inputs:
       content:
