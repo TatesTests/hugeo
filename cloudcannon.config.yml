@@ -101,3 +101,8 @@ _snippets_imports:
 _snippets:
   test:
     template: hugo_paired_shortcode
+    definitions:
+      content_key: content
+    _inputs:
+      content:
+        type: markdown
