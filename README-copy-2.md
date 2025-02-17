@@ -1,7 +1,7 @@
-# Casd;lkas;dlkas;kldaslkjlkjlk
-
+# Casd;lkas;dlkas;kldasasdadasdasdasdasdadsasdasd
+adsasdasdadasdasd
 Law fadsasdasdirm themed business template for Hugo. Browse through a [live demo](https://loved-wood.cloudvent.net/).
-Increase the nbmnbmnbmnweb presence of a law firm or business with this configurable theme.
+Increase the nbmnbmnbmnweb presence of a law firm or business with this configurable theme.adsasdasdasd
 
 ![Justice template screenshot](images/_screenshot.png)
 
@@ -13,7 +13,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 * adasdasdsadPre-built pages
 * Pre-styled components
 * Blog with pagination and category pages
-* Disqus comments for posts
+* Disqus comments for postsasdasdasdasd
 * Author system
 * Configurable footer
 * Optimised for editing in [CloudCannon](https://cloudcannon.com/)
@@ -31,7 +31,7 @@ Jusasdasdadasdtice wasasdasdasd made by [CloudCannon](https://cloudcannon.com/),
 
 Justice was built with [Hugo](https://gohugo.io/) version `0.80.0`, but should support newer versions as well.
 
-Run the standalone executable `hugo` to serve the site locally:
+Run the standalone executable `hugo` to serve the site locally:adasdasd
 
 ~~~bash
 $ hugo server
